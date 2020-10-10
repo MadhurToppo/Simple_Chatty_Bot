@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades.iml" group="Simple_Chatty_Bot/Problems-Grades" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades_main.iml" group="Simple_Chatty_Bot/Problems-Grades" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades_test.iml" group="Simple_Chatty_Bot/Problems-Grades" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Numbers divisible by six/Problems-Numbers_divisible_by_six.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Numbers divisible by six/Problems-Numbers_divisible_by_six.iml" group="Simple_Chatty_Bot/Problems-Numbers_divisible_by_six" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Numbers divisible by six/Problems-Numbers_divisible_by_six_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Numbers divisible by six/Problems-Numbers_divisible_by_six_main.iml" group="Simple_Chatty_Bot/Problems-Numbers_divisible_by_six" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Numbers divisible by six/Problems-Numbers_divisible_by_six_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Numbers divisible by six/Problems-Numbers_divisible_by_six_test.iml" group="Simple_Chatty_Bot/Problems-Numbers_divisible_by_six" />
