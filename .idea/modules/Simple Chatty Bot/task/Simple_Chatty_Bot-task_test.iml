@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":Problems-The_sum_of_integers_from_a_to_b:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/The sum of integers from a to b" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Simple_Chatty_Bot" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":Simple_Chatty_Bot-task:test" external.linked.project.path="$MODULE_DIR$/../../../../Simple Chatty Bot/task" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Simple_Chatty_Bot" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../../../Problems/The sum of integers from a to b/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../Simple Chatty Bot/task/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../../Problems/The sum of integers from a to b/src/test" />
-    <content url="file://$MODULE_DIR$/../../../../Problems/The sum of integers from a to b/test" />
+    <content url="file://$MODULE_DIR$/../../../../Simple Chatty Bot/task/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../Simple Chatty Bot/task/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Simple Chatty Bot/task/test" isTestSource="true" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Problems-The_sum_of_integers_from_a_to_b_main" />
+    <orderEntry type="module" module-name="Simple_Chatty_Bot-task_main" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
     <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
@@ -27,5 +29,5 @@
     <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="Problems-The_sum_of_integers_from_a_to_b_main" />
+  <component name="TestModuleProperties" production-module="Simple_Chatty_Bot-task_main" />
 </module>
