@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials.iml" group="Simple_Chatty_Bot/Problems-Calculating_factorials" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials_main.iml" group="Simple_Chatty_Bot/Problems-Calculating_factorials" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials_test.iml" group="Simple_Chatty_Bot/Problems-Calculating_factorials" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades.iml" group="Simple_Chatty_Bot/Problems-Grades" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades_main.iml" group="Simple_Chatty_Bot/Problems-Grades" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades_test.iml" group="Simple_Chatty_Bot/Problems-Grades" />
